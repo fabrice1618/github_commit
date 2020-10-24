@@ -20,7 +20,8 @@ $ composer require knplabs/github-api php-http/guzzle6-adapter "^1.1"
 
 ```
 ## Utilisation
-
+```
 $ php get_repos.php
 $ php get_commit_brut.php
 $ php get_commit.php
+```
